@@ -1,0 +1,1 @@
+SELECT * FROM stockmarketdev.dev.securityconfig
